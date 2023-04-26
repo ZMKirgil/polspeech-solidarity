@@ -1,5 +1,4 @@
-# Do Political Speeches Matter in Times of Crisis? 
-The (In)Effectiveness of Speeches on Solidarity
+# Do Political Speeches Matter in Times of Crisis? The (In)Effectiveness of Speeches on Solidarity
 
 
 
