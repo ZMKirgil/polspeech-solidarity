@@ -6,7 +6,7 @@ by Z.M. Kirgil, Kimmo Eriksson and Pontus Strimling
 
 The repository contains data and syntax of the paper.
 
-The aggregated data and syntax will shared upon publication of the article.
+The data and syntax will shared upon publication of the article.
 
 ## Terms of use
 
